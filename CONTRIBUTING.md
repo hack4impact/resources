@@ -17,7 +17,7 @@ that have to contain long URL's.
 Note that each bullet-pointed link has two trailing spaces, to induce a line
 break in Markdown.
 
-For new files, let's use kebab-case (capitalize each word, separate words with
+For new files, let's use kebab-case (lowercase each word, separate words with
 hyphens). Example: `new-file.md`
 
 Please no tab characters; they sometimes format as Code Blocks. Please use 2
