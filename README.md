@@ -2,16 +2,18 @@
 
 Welcome!
 
-- ### [Learning Resources](learning-resources.md)
-- ### [Student Organizations](student-organizations.md)
-- ### [Job Opportunities](job-opportunities.md)
-- ### [Civic Data Sets](data-set.md)
+### [Learning Resources](learning-resources.md)
+### [Student Organizations](student-organizations.md)
+### [Job Opportunities](job-opportunities.md)
+### [Civic Data Sets](data-set.md)
 
-Misc / TODO:
-### Social Impact x Tech Organizations
-- [Code for Philly](https://codeforphilly.org/)
-### Hackathons
-- [HackDuke](https://www.hackduke.org/)
+
+
+#### Misc
+- Social Impact x Tech Organizations
+  - [Code for Philly](https://codeforphilly.org/)
+- Hackathons
+  - [HackDuke](https://www.hackduke.org/)
 
 
 ## About This Repo
