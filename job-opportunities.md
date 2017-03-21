@@ -1,7 +1,6 @@
 # Job Opportunities
 
 ### Fellowships and Internships 
-- [Technology for Impact Fellowship](https://www.tfi-fellowship.org/)
 - [Google North America Public Policy Fellowship](https://blog.google/topics/public-policy/2017-google-north-america-public-policy-fellowship-now-accepting-applications/)
 - [DSSG Atlanta Summer Fellowship](http://dssg-atl.io)
 - [DSSG University of Washington](http://escience.washington.edu/get-involved/incubator-programs/data-science-for-social-good/) 
@@ -10,6 +9,15 @@
 - [ACLU Technology Fellow](https://www.aclu.org/careers/technology-fellow-spt-04-acluf-speech-privacy-and-technology-project-ny)
 - [Congressional Innovation Fellowship](https://www.techcongress.io/the-fellowship/)
 
+### Volunteer Opportunities
+- [Social Coders](http://socialcoder.org/)
+- [Technology for Impact Fellowship](https://www.tfi-fellowship.org/)
+
+### Other Resource Hubs
+- [Tech Forward - Organizations, Projects, Resources, Tools, etc. for social progress](https://tech-forward.com/)
+- [Coding it Forward Jobs, Internships, and Resources - spreadsheet](https://docs.google.com/spreadsheets/d/166gGCGU2dXBep7d9SQqP8698_Tct5k38_k4zwdFnArA/edit#gid=0)
+- [CS+Social Good Organizations/Connections - spreadsheet](https://docs.google.com/spreadsheets/d/1pRpVHIuqJ4LdE0GmjNsIfMFSgnnl3KIn6-n8dm6s2NI/edit#gid=0)
+
 ### Companies and Nonprofits
 - [United States Digital Service](https://www.usds.gov)
 - [Chan Zuckerberg Initiative](https://jobs.lever.co/chanzuckerberg)
@@ -17,7 +25,3 @@
 - [Code For America Jobs Portal](http://jobs.codeforamerica.org)
 - [Hack4Impact Civic Tech Organizations - spreadsheet](https://docs.google.com/spreadsheets/d/1OdLYn1KOk7_RDxpqaelChmI0qqhKNd_ww2N5D-XCkHQ/edit#gid=0)
 
-### Other Resource Hubs
-- [Tech Forward - Organizations, Projects, Resources, Tools, etc. for social progress](https://tech-forward.com/)
-- [Coding it Forward Jobs, Internships, and Resources - spreadsheet](https://docs.google.com/spreadsheets/d/166gGCGU2dXBep7d9SQqP8698_Tct5k38_k4zwdFnArA/edit#gid=0)
-- [CS+Social Good Organizations/Connections - spreadsheet](https://docs.google.com/spreadsheets/d/1pRpVHIuqJ4LdE0GmjNsIfMFSgnnl3KIn6-n8dm6s2NI/edit#gid=0)
