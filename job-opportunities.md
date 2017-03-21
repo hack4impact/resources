@@ -8,6 +8,7 @@
 - [Technology and Democracy Fellowship](http://ash.harvard.edu/technology-and-democracy-fellowship) 
 - [ACLU Technology Fellow](https://www.aclu.org/careers/technology-fellow-spt-04-acluf-speech-privacy-and-technology-project-ny)
 - [Congressional Innovation Fellowship](https://www.techcongress.io/the-fellowship/)
+- [Singularity University Impact Fellows](https://su.org/impact/impact-fellows/)
 
 ### Volunteer Opportunities
 - [Social Coders](http://socialcoder.org/)
