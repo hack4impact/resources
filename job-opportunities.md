@@ -12,6 +12,7 @@
 ### Volunteer Opportunities
 - [Social Coders](http://socialcoder.org/)
 - [Technology for Impact Fellowship](https://www.tfi-fellowship.org/)
+- [Code for Philly](https://codeforphilly.org/)
 
 ### Other Resource Hubs
 - [Tech Forward - Organizations, Projects, Resources, Tools, etc. for social progress](https://tech-forward.com/)
