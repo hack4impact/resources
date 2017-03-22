@@ -10,15 +10,16 @@
 - [Congressional Innovation Fellowship](https://www.techcongress.io/the-fellowship/)
 - [Singularity University Impact Fellows](https://su.org/impact/impact-fellows/)
 
+### Resource Hubs
+- [Fast Foward - Jobs, Volunteer & Board Opportunities](http://www.ffwd.org/tech-nonprofit-jobs/)
+- [Tech Forward - Organizations, Projects, Resources, Tools, etc. for social progress](https://tech-forward.com/)
+- [Coding it Forward Jobs, Internships, and Resources - spreadsheet](https://docs.google.com/spreadsheets/d/166gGCGU2dXBep7d9SQqP8698_Tct5k38_k4zwdFnArA/edit#gid=0)
+- [CS+Social Good Organizations/Connections - spreadsheet](https://docs.google.com/spreadsheets/d/1pRpVHIuqJ4LdE0GmjNsIfMFSgnnl3KIn6-n8dm6s2NI/edit#gid=0)
+
 ### Volunteer Opportunities
 - [Social Coders](http://socialcoder.org/)
 - [Technology for Impact Fellowship](https://www.tfi-fellowship.org/)
 - [Code for Philly](https://codeforphilly.org/)
-
-### Other Resource Hubs
-- [Tech Forward - Organizations, Projects, Resources, Tools, etc. for social progress](https://tech-forward.com/)
-- [Coding it Forward Jobs, Internships, and Resources - spreadsheet](https://docs.google.com/spreadsheets/d/166gGCGU2dXBep7d9SQqP8698_Tct5k38_k4zwdFnArA/edit#gid=0)
-- [CS+Social Good Organizations/Connections - spreadsheet](https://docs.google.com/spreadsheets/d/1pRpVHIuqJ4LdE0GmjNsIfMFSgnnl3KIn6-n8dm6s2NI/edit#gid=0)
 
 ### Companies and Nonprofits
 - [United States Digital Service](https://www.usds.gov)
