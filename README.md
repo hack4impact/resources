@@ -4,6 +4,7 @@
 ### [Student Organizations](student-organizations.md)
 ### [Job Opportunities](job-opportunities.md)
 ### [Civic Data Sets](data-set.md)
+### [Conferences](conferences.md)
 
 ## About This Repo
 
