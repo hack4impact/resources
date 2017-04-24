@@ -8,3 +8,5 @@
   > AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries. By highlighting the powerful voices and positive initiatives of local community members, we build hope and strengthen the community’s resolve to create safer spaces for everyone.
 - [Affect Conf](https://affectconf.com/)
   > Affect is a 2-day conference with a dash of volunteering that’s all about the work, culture, and design of social change.
+- [Personal Democracy Forum](https://personaldemocracy.com/conference)
+  > The annual flagship conference brings together close to 1,000 top technologists, campaigners, hackers, opinion-makers, government officials, journalists, and academics for two days of game-changing talks, workshops, and networking opportunities to celebrate the power and potential of tech to make real change happen.
