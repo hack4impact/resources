@@ -9,7 +9,7 @@ Social impact and tech organizations that are school-specific.
 ### [Job Opportunities](job-opportunities.md)
 Fellowships and internships, volunteer opportunities, companies and nonprofits, and other resource hubs for paid and unpaid opportunities in the social impact and tech sphere.
 
-### [Civic Data Sets](data-set.md)
+### [Civic Data Sets](data-sets.md)
 Open data sets of civic data.
 
 ### [Conferences](conferences.md)
