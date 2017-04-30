@@ -9,6 +9,7 @@
 - [ACLU Technology Fellow](https://www.aclu.org/careers/technology-fellow-spt-04-acluf-speech-privacy-and-technology-project-ny)
 - [Congressional Innovation Fellowship](https://www.techcongress.io/the-fellowship/)
 - [Singularity University Impact Fellows](https://su.org/impact/impact-fellows/)
+- [Berkman Klein Center for Internet & Society at Harvard University Summer Internship Program](https://cyber.harvard.edu/getinvolved/internships_summer)
 
 ### Resource Hubs
 - [Fast Foward - Jobs, Volunteer & Board Opportunities](http://www.ffwd.org/tech-nonprofit-jobs/)
