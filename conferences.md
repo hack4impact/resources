@@ -10,3 +10,5 @@
   > Affect is a 2-day conference with a dash of volunteering that’s all about the work, culture, and design of social change.
 - [Personal Democracy Forum](https://personaldemocracy.com/conference)
   > The annual flagship conference brings together close to 1,000 top technologists, campaigners, hackers, opinion-makers, government officials, journalists, and academics for two days of game-changing talks, workshops, and networking opportunities to celebrate the power and potential of tech to make real change happen.
+- [NYC School of Data](https://schoolofdata.nyc/)
+  > New York City School of Data is a community conference showcasing NYC’s civic design, civic/government technology, and open data ecosystem.
