@@ -12,10 +12,12 @@
 - [Berkman Klein Center for Internet & Society at Harvard University Summer Internship Program](https://cyber.harvard.edu/getinvolved/internships_summer)
 - [Coding it Forward's Civic Digital Fellowship](http://codingitforward.com/fellowship/)
 - [Coding it Forward's Pipeline Program](http://codingitforward.com/pipeline/)
+- [Blue Ridge Labs @ Robin Hood Fellowship](https://labs.robinhood.org/fellowship/)
 
 ### Resource Hubs
 - [Fast Forward - Jobs, Volunteer & Board Opportunities](http://www.ffwd.org/tech-nonprofit-jobs/)
 - [Coding it Forward Jobs, Internships, and Resources - spreadsheet](https://docs.google.com/spreadsheets/d/166gGCGU2dXBep7d9SQqP8698_Tct5k38_k4zwdFnArA/edit#gid=0)
+- [Tech Jobs for Good - spreadsheet](bit.ly/tj4g-sheet)
 
 ### Volunteer Opportunities
 - [Social Coders](http://socialcoder.org/)
