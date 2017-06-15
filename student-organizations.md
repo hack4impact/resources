@@ -7,4 +7,7 @@
 - UC Berkeley [Cal Blueprint](http://www.calblueprint.org/)
 - MIT [Code for Good](http://codeforgood.mit.edu/)
 - USC [Code the Change](http://ctc-usc.org/) (CTC)
+
+## Hackathons
 - [HackDuke](https://www.hackduke.org/)
+- [Social Hacks](http://socialhacks.tech/)
