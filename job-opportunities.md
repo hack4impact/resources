@@ -33,3 +33,4 @@
 - [Hack4Impact Civic Tech Organizations - spreadsheet](https://docs.google.com/spreadsheets/d/1OdLYn1KOk7_RDxpqaelChmI0qqhKNd_ww2N5D-XCkHQ/edit#gid=0)
 - [CS+Social Good Organizations/Connections - spreadsheet](https://docs.google.com/spreadsheets/d/1pRpVHIuqJ4LdE0GmjNsIfMFSgnnl3KIn6-n8dm6s2NI/edit#gid=0)
 - [Tech Forward - Organizations, Projects, Resources, Tools, etc. for social progress](https://tech-forward.com/#orgs)
+- [Hack the Hood](www.hackthehood.org/)
