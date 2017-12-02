@@ -13,6 +13,8 @@
 - [Coding it Forward's Civic Digital Fellowship](http://codingitforward.com/fellowship/)
 - [Coding it Forward's Pipeline Program](http://codingitforward.com/pipeline/)
 - [Blue Ridge Labs @ Robin Hood Fellowship](https://labs.robinhood.org/fellowship/)
+- [Summer of Maps](http://www.summerofmaps.com/)
+- [Azavea Fellowship](https://fellowship.azavea.com)
 
 ### Resource Hubs
 - [Fast Forward - Jobs, Volunteer & Board Opportunities](http://www.ffwd.org/tech-nonprofit-jobs/)
