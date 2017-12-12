@@ -15,6 +15,9 @@ Open data sets of civic data.
 ### [Conferences](conferences.md)
 Conferences with a social good and tech focus.
 
+### [Philly Tech Scene](philly-tech.md)
+Guides and resources to get more involved with the tech scene in Philadephia. 
+
 ## About This Repo
 
 License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
