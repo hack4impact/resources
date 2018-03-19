@@ -37,3 +37,4 @@
 - [Tech Forward - Organizations, Projects, Resources, Tools, etc. for social progress](https://tech-forward.com/#orgs)
 - [Hack the Hood](http://www.hackthehood.org/)
 - [Sassafras Tech Collective](https://sassafras.coop/jobs)
+- [DataKind](http://www.datakind.org/)
