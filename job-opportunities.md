@@ -38,3 +38,4 @@
 - [Hack the Hood](http://www.hackthehood.org/)
 - [Sassafras Tech Collective](https://sassafras.coop/jobs)
 - [DataKind](http://www.datakind.org/)
+- [UChicago Urban Labs](https://urbanlabs.uchicago.edu/careers)
